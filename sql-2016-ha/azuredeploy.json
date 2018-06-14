@@ -75,7 +75,7 @@
             "metadata": {
                 "description": "The DNS Suffix for reverse lookup of public IPAddresses "
             },
-            "defaultValue": "mas1.mtc-tvp.com1"
+            "defaultValue": "mas1.mtc-tvp.com"
         },
         "sqlServerServiceAccountUserName": {
             "type": "string",
